@@ -1,0 +1,28 @@
+:root {
+  /* Color */
+  --white-color: #fff;
+  --black-color: #140a00;
+  --red-color: #ff0000;
+  --grey-dark-color: #909090;
+  --grey-light-color: #e0e0e0;
+  --blue-color: #045fd4;
+
+  /* Size */
+  --side-padding: 12px;
+  --avatar-size: 36px;
+
+  /* Font Size */
+  --font-large: 18px;
+  --font-medium: 14px;
+  --font-small: 12px;
+  --font-micro: 10px;
+}
+
+
+body {
+  background-color: var(--black-color);
+}
+
+h2 {
+  color: var(--grey-light-color);
+}
